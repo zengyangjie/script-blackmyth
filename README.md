@@ -1,5 +1,6 @@
 # 黑神话：悟空 的小神通——碎玉银行灵韵脚本
 Wukong shows his little shentong.
+
 本项目只为解放双手，传送至：盘丝洞——碎玉池——土地庙，即可开始脚本增加灵韵和经验。
 # 具体实现操作
 ## 运行blackmyth.exe
